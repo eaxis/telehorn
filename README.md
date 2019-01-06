@@ -15,7 +15,7 @@ It has API/GUI/CLI and Go-bindings. Check online-demo at telehorn.co to try it y
 - [Limits](#limits)
 
 ## Overview
-![TeleHorn](https://i.ibb.co/sbfXp8F/11118.png)
+![TeleHorn](https://raw.githubusercontent.com/Narrator69/telehorn/master/promo.png)
 
 ## Requirements
 The idea of TeleHorn implies you've:
