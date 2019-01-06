@@ -3,7 +3,7 @@ TeleHorn
 
 TeleHorn is simple and flexible tool to make newsletters in Telegram. 
 You can use it for sending bulk messages to your users. 
-It has API/GUI/CLI and Go-bindings. Check online-demo at telehorn.co to try it yourself. 
+It has API/GUI/CLI and Go-bindings. Check **[online-demo](http://199.247.25.75:2019/)** to try it yourself. 
 
 - [Overview](#overview)
 - [Requirements](#requirements)
