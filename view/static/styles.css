@@ -1,0 +1,46 @@
+body {
+    background-color: #E6E6EA;
+}
+
+.content {
+    padding-top: 100px;
+}
+
+.padding-bottom {
+    padding-bottom: 30px;
+}
+
+.custom-alert {
+    display: none;
+    margin-top: -100px;
+}
+
+.preview {
+    position: relative;
+    text-align: left;
+}
+
+.preview img {
+    width: 100%;
+    margin-bottom: -16px;
+}
+
+.preview .preview-payload {
+    position: absolute;
+    width: 57%;
+    height: 20%;
+    top: 71%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    overflow: hidden;
+}
+
+.about {
+    text-align: center;
+}
+
+.about p {
+    margin-top: 20px;
+    font-size: 15pt;
+}
